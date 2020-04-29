@@ -55,3 +55,38 @@
             pass
             
 這是`echo '123456'`
+
+***
+
+*斜體*
+
+**粗體**
+
+***粗體+斜體***
+
+***
+
+圖片
+
+![描述](https://miro.medium.com/max/708/1*ifSob78knBe5rME04WHftg.png)
+
+<img src="https://miro.medium.com/max/708/1*ifSob78knBe5rME04WHftg.png" width="50px"
+height="50" alt="描述">
+
+***
+
+表格
+
+|title|title|title|
+|---|:---:|---:|
+|左|中|右|
+|1|2|3|
+|換行<br/><br/><br/><br/>|換行<br/><br/><br/><br/><br/>5|換行<br/><br/><br/><br/><br/><br/>6|
+|7|8|
+
+***
+
+自動識別
+
+<https://tw.yahoo.com/>
+<>
